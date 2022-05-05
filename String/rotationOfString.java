@@ -7,6 +7,5 @@ public class rotationOfString {
         String S2 = sc.nextLine();
         String S3 = S1 + S1;
         System.out.println(S3.contains(S2));
-
     }
 }
